@@ -1,0 +1,3 @@
+- 👀 I’m interested in vision based Deep Learning
+- 🌱 I’m using Pytorch/TorchVsion/Pytorch-Lightning/Torch-TensorRT for DL dev
+- 📫 Here is my [qiita](https://qiita.com/minh33)
